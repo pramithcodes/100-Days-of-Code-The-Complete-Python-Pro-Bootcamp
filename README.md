@@ -1,4 +1,4 @@
-# 🐍 100 Days of Code — Python Pro Bootcamp
+# 🐍 100 Days of Code — The Complete Python Pro Bootcamp
 
 **Course:** 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu
 **Started:** June 12, 2026
