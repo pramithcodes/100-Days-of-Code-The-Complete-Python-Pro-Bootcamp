@@ -10,7 +10,7 @@
 
 **Day 0 of 100**
 
-`░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
+`░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 1%
 
 ---
 
@@ -18,7 +18,7 @@
 
 | Day | Project | What I Learned | Status |
 |:---:|:--------|:---------------|:------:|
-| 01 | Band Name Generator | Variables, Strings, `print()` | 🔒 |
+| 01 | Band Name Generator | Variables, Strings, `print()` | ✅ |
 | 02 | Tip Calculator | Data Types, f-Strings, Type Conversion | 🔒 |
 | 03 | Treasure Island | If/Else, Logical Operators | 🔒 |
 | 04 | Rock Paper Scissors | Lists, Randomisation | 🔒 |
