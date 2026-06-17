@@ -10,7 +10,7 @@
 
 **Day 0 of 100**
 
-`░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 2%
+`░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` %
 
 ---
 
@@ -20,8 +20,8 @@
 |:---:|:--------|:---------------|:------:|
 | 01 | Band Name Generator | Variables, Strings, `print()` | ✅ |
 | 02 | Tip Calculator | Data Types, f-Strings, Type Conversion | ✅ |
-| 03 | Treasure Island | If/Else, Logical Operators | 🔒 |
-| 04 | Rock Paper Scissors | Lists, Randomisation | 🔒 |
+| 03 | Treasure Island | If/Else, Logical Operators | ✅ |
+| 04 | Rock Paper Scissors | Lists, Randomisation | ✅ |
 | 05 | Password Generator | For Loops, `range()` | 🔒 |
 | 06 | Escape the Maze | Functions, While Loops | 🔒 |
 | 07 | Hangman | String Indexing, Flow Control | 🔒 |
