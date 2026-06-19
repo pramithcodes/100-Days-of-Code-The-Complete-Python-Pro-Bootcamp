@@ -8,9 +8,9 @@
 
 ## 📈 Progress
 
-**Day 0 of 100**
+**Day 5 of 100**
 
-██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 4%
+██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 5%
 
 ---
 
@@ -22,8 +22,8 @@
 | 02 | Tip Calculator | Data Types, f-Strings, Type Conversion | ✅ |
 | 03 | Treasure Island | If/Else, Logical Operators | ✅ |
 | 04 | Rock Paper Scissors | Lists, Randomisation | ✅ |
-| 05 | Password Generator | For Loops, `range()` | ⏳ |
-| 06 | Escape the Maze | Functions, While Loops | 🔒 |
+| 05 | Password Generator | For Loops, `range()` | ✅ |
+| 06 | Escape the Maze | Functions, While Loops | ⏳ |
 | 07 | Hangman | String Indexing, Flow Control | 🔒 |
 | 08 | Caesar Cipher | Function Parameters | 🔒 |
 | 09 | Secret Auction | Dictionaries, Nesting | 🔒 |
