@@ -20,4 +20,4 @@ for char in range(1, input_n + 1):
 for char in range(1, input_s + 1):
   password += random.choice(symbols)
 
-print(password)
+print("Your password is: " + password)
